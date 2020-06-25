@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/K站中转内最便宜的航班/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/TopK问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/数组中出现次数超过一半的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/替换空格/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/二进制矩阵中的最短路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/判断二分图/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/单词接龙/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/员工的重要性/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/喧闹和富有/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/太平洋大西洋水流问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/打开转盘锁/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/最小高度树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/最短的桥/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/水域大小/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/火柴拼正方形/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/统计封闭岛屿的数目/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/腐烂的橘子/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/获取你好友已观看的视频/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/账户合并/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/连通网络的操作次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/重新规划路线/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/颜色交替的最短路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/飞地的数量/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/HeadSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/tree/BSTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/tree/N叉树的层序遍历/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/tree/二叉树展开为链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/blockingqueue/MiniBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/blockingqueue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/好包算法/RedPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/一个数组实现两个栈/DoubleStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/二叉树宽度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/二叉树是否对称/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/二维数组回行打印/Travel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/找出来数组中每个元素后边第一个比它大的值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/数组交集并集/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/栈实现队列/StackQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/移掉K个数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/链表m到n反转/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/链表反转/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/链表实现队列/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/队实现栈/QueueStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/K个一组反转链表/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/K个一组反转链表/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/面试题25合并两个排序的链表/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/面试题25合并两个排序的链表/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/反转链表2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/反转链表2/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/机制/TenToTwo$CallableTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/机制/TenToTwo$CallableTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/link/CompareAndSwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/link/CompareAndSwap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache$CacheNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache$CacheNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/K个一组反转链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/K个一组反转链表/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题25合并两个排序的链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题25合并两个排序的链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/反转链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/反转链表2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/反转链表2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/合并K个有序链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/合并K个有序链表/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/相交链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/相交链表/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/link/CompareAndSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/link/CompareAndSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/tree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/tree/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/tree/HeapSort.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="synchronized" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\ubantu\local_maven" />
+        <option name="mavenHome" value="$USER_HOME$/ubantu/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\ubantu\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XElFhoB4AKvmulHCHP9HCS9ksR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../框架源码/ext_spring_mvc" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.adminsys.美团.three" />
+      <recent name="com.adminsys.code.删除排序链表中的重复元素" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\memo012\idea\arithmetic\synchronized\src\com\adminsys\多线程" />
+      <recent name="C:\memo012\idea\arithmetic\synchronized\src\com\adminsys\code" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.tree.HeapSort" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.多线程.blockingqueue.MiniBlockingQueue" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.多线程.blockingqueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.多线程.好包算法.RedPackage" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.多线程.好包算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.TopK问题.Solution" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.code.offer.TopK问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.账户合并.Solution" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.code.账户合并.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.RedPackage" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.MiniBlockingQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="" />
+      <created>1580619032647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580619032647</updated>
+      <workItem from="1580619038635" duration="1300000" />
+      <workItem from="1580965103118" duration="4842000" />
+      <workItem from="1581017141230" duration="9849000" />
+      <workItem from="1581106128592" duration="4804000" />
+      <workItem from="1581196522530" duration="11372000" />
+      <workItem from="1581395589184" duration="6596000" />
+      <workItem from="1581483056782" duration="5453000" />
+      <workItem from="1581615021875" duration="34000" />
+      <workItem from="1581637050577" duration="11627000" />
+      <workItem from="1581887460088" duration="626000" />
+      <workItem from="1582067977558" duration="10984000" />
+      <workItem from="1582172826810" duration="830000" />
+      <workItem from="1582343059762" duration="3823000" />
+      <workItem from="1582401923289" duration="613000" />
+      <workItem from="1582425091374" duration="2094000" />
+      <workItem from="1582430697092" duration="7496000" />
+      <workItem from="1582479949394" duration="4745000" />
+      <workItem from="1582492620453" duration="2269000" />
+      <workItem from="1582496980854" duration="2189000" />
+      <workItem from="1582507351176" duration="3438000" />
+      <workItem from="1582521325046" duration="3493000" />
+      <workItem from="1582569127208" duration="5712000" />
+      <workItem from="1582579583409" duration="2226000" />
+      <workItem from="1582590290223" duration="6657000" />
+      <workItem from="1582648051590" duration="2706000" />
+      <workItem from="1582760099864" duration="4005000" />
+      <workItem from="1583024145066" duration="10316000" />
+      <workItem from="1583082006608" duration="601000" />
+      <workItem from="1583184348079" duration="2138000" />
+      <workItem from="1583258661648" duration="276000" />
+      <workItem from="1583270143753" duration="16674000" />
+      <workItem from="1583380340567" duration="8821000" />
+      <workItem from="1583434568553" duration="2163000" />
+      <workItem from="1583451993610" duration="12753000" />
+      <workItem from="1583523482367" duration="18125000" />
+      <workItem from="1583605976811" duration="626000" />
+      <workItem from="1583613178909" duration="5933000" />
+      <workItem from="1583642507645" duration="8941000" />
+      <workItem from="1583683728774" duration="10751000" />
+      <workItem from="1583795530513" duration="7741000" />
+      <workItem from="1583816329070" duration="1504000" />
+      <workItem from="1583817939905" duration="3423000" />
+      <workItem from="1583862018551" duration="11177000" />
+      <workItem from="1583981088357" duration="1292000" />
+      <workItem from="1583992949925" duration="569000" />
+      <workItem from="1584049234148" duration="5748000" />
+      <workItem from="1584145666810" duration="32000" />
+      <workItem from="1584162953370" duration="4697000" />
+      <workItem from="1584304881427" duration="8989000" />
+      <workItem from="1584383249397" duration="94000" />
+      <workItem from="1584383557248" duration="37000" />
+      <workItem from="1584414152378" duration="4314000" />
+      <workItem from="1584486393998" duration="3689000" />
+      <workItem from="1584574320594" duration="126000" />
+      <workItem from="1585016870431" duration="6343000" />
+      <workItem from="1585070121514" duration="2957000" />
+      <workItem from="1585091713800" duration="1661000" />
+      <workItem from="1585163938235" duration="4353000" />
+      <workItem from="1585183359967" duration="5142000" />
+      <workItem from="1585279692891" duration="5189000" />
+      <workItem from="1585334998274" duration="11061000" />
+      <workItem from="1585417337221" duration="4939000" />
+      <workItem from="1585425897558" duration="3591000" />
+      <workItem from="1585511047088" duration="3076000" />
+      <workItem from="1585532542706" duration="9142000" />
+      <workItem from="1585594209231" duration="277000" />
+      <workItem from="1585617877674" duration="2331000" />
+      <workItem from="1585698058492" duration="7601000" />
+      <workItem from="1585769100318" duration="4773000" />
+      <workItem from="1585787548981" duration="12558000" />
+      <workItem from="1585847205560" duration="7351000" />
+      <workItem from="1585867525667" duration="2486000" />
+      <workItem from="1585946584781" duration="3624000" />
+      <workItem from="1585977705926" duration="3380000" />
+      <workItem from="1586022099541" duration="10973000" />
+      <workItem from="1586062305641" duration="5468000" />
+      <workItem from="1586112242780" duration="9104000" />
+      <workItem from="1586239262501" duration="2644000" />
+      <workItem from="1586265132317" duration="5199000" />
+      <workItem from="1586311548304" duration="564000" />
+      <workItem from="1586338768121" duration="8853000" />
+      <workItem from="1586397733440" duration="43000" />
+      <workItem from="1586431473188" duration="6398000" />
+      <workItem from="1588756376372" duration="275000" />
+      <workItem from="1588818999370" duration="18404000" />
+      <workItem from="1588910565319" duration="9641000" />
+      <workItem from="1588997718966" duration="13758000" />
+      <workItem from="1589192672272" duration="9896000" />
+      <workItem from="1589247570250" duration="1644000" />
+      <workItem from="1589266113698" duration="8572000" />
+      <workItem from="1589284103663" duration="2480000" />
+      <workItem from="1589358067829" duration="6670000" />
+      <workItem from="1589527863399" duration="8915000" />
+      <workItem from="1589593566391" duration="3346000" />
+      <workItem from="1589712004093" duration="780000" />
+      <workItem from="1589764409176" duration="2241000" />
+      <workItem from="1590230454332" duration="5912000" />
+      <workItem from="1590288142409" duration="38000" />
+      <workItem from="1590625017446" duration="8567000" />
+      <workItem from="1590690904463" duration="796000" />
+      <workItem from="1590734920969" duration="7171000" />
+      <workItem from="1590823507169" duration="4963000" />
+      <workItem from="1590841902103" duration="2087000" />
+      <workItem from="1590885196511" duration="703000" />
+      <workItem from="1590927336084" duration="4571000" />
+      <workItem from="1590980218696" duration="499000" />
+      <workItem from="1591011987843" duration="622000" />
+      <workItem from="1591014179862" duration="4053000" />
+      <workItem from="1591064009636" duration="401000" />
+      <workItem from="1591090911057" duration="7664000" />
+      <workItem from="1591171480273" duration="47000" />
+      <workItem from="1591180874875" duration="8672000" />
+      <workItem from="1591236730019" duration="90000" />
+      <workItem from="1591239585174" duration="4716000" />
+      <workItem from="1591254979650" duration="8319000" />
+      <workItem from="1591338234045" duration="754000" />
+      <workItem from="1591345354993" duration="5717000" />
+      <workItem from="1591413990829" duration="12800000" />
+      <workItem from="1591515334889" duration="152000" />
+      <workItem from="1591528429891" duration="267000" />
+      <workItem from="1591598879941" duration="41000" />
+      <workItem from="1591617137037" duration="3825000" />
+      <workItem from="1591669072265" duration="502000" />
+      <workItem from="1591685036955" duration="11737000" />
+      <workItem from="1591769891216" duration="295000" />
+      <workItem from="1591790014679" duration="3237000" />
+      <workItem from="1591842576632" duration="5557000" />
+      <workItem from="1591925750596" duration="2581000" />
+      <workItem from="1592226000478" duration="4389000" />
+      <workItem from="1592573730029" duration="3517000" />
+      <workItem from="1592710190115" duration="10055000" />
+      <workItem from="1592913991801" duration="4309000" />
+      <workItem from="1592997584450" duration="2557000" />
+      <workItem from="1593066198020" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
