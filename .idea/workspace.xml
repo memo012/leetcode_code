@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/交替打印奇偶数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer58翻转单词顺序/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer59滑动窗口的最大值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer62圆圈中最后剩下的数字/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
@@ -659,7 +661,7 @@
       <workItem from="1592997584450" duration="2557000" />
       <workItem from="1593066198020" duration="45000" />
       <workItem from="1593086696259" duration="6375000" />
-      <workItem from="1593144511258" duration="2467000" />
+      <workItem from="1593144511258" duration="7081000" />
     </task>
     <servers />
   </component>
