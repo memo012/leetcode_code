@@ -2,78 +2,382 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/K站中转内最便宜的航班/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/TopK问题/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/数组中出现次数超过一半的数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/替换空格/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/二进制矩阵中的最短路径/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/判断二分图/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/单词接龙/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/员工的重要性/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/喧闹和富有/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/太平洋大西洋水流问题/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/打开转盘锁/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/最小高度树/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/最短的桥/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/水域大小/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/火柴拼正方形/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/统计封闭岛屿的数目/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/腐烂的橘子/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/获取你好友已观看的视频/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/账户合并/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/连通网络的操作次数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/重新规划路线/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/颜色交替的最短路径/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/飞地的数量/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/HeadSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/test/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/tree/BSTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/tree/N叉树的层序遍历/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/tree/二叉树展开为链表/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/blockingqueue/MiniBlockingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/blockingqueue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/好包算法/RedPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/一个数组实现两个栈/DoubleStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/二叉树宽度/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/二叉树是否对称/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/二维数组回行打印/Travel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/找出来数组中每个元素后边第一个比它大的值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/数组交集并集/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/栈实现队列/StackQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/移掉K个数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/链表m到n反转/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/链表反转/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/链表实现队列/LinkedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/队实现栈/QueueStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/lt52两个链表的第一个公共节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/n整数中1出现的次数/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/K个一组反转链表/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/K个一组反转链表/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/面试题25合并两个排序的链表/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/面试题25合并两个排序的链表/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/反转链表2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/反转链表2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/机制/TenToTwo$CallableTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/机制/TenToTwo$CallableTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/相交链表/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/link/CompareAndSwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/link/CompareAndSwap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache$CacheNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache$CacheNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/lru/lru/LRUCache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/tree/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/K个一组反转链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/K个一组反转链表/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题25合并两个排序的链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题25合并两个排序的链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/反转链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/反转链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/反转链表2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/反转链表2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/合并K个有序链表/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/合并K个有序链表/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/相交链表/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/相交链表/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/link/CompareAndSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/link/CompareAndSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/tree/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/tree/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/META-INF/synchronized.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/TopK问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/TopK问题/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/leetcode/在排序数组中查找数字/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/leetcode/在排序数组中查找数字/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/K个一组反转链表/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/LRU/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/LRU/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/leetcode215数组中的第K个最大元素/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题18删除链表的节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题18删除链表的节点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题22链表中倒数第k个节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题22链表中倒数第k个节点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题24反转链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题24反转链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题25合并两个排序的链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题25合并两个排序的链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题27二叉树的镜像/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题27二叉树的镜像/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题28对称的二叉树/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题28对称的二叉树/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题29顺时针打印矩阵/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题34二叉树中和为某一值的路径/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题34二叉树中和为某一值的路径/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题67把字符串转换成整数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题68II二叉树的最近公共祖先/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题68II二叉树的最近公共祖先/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题68I二叉搜索树的最近公共祖先/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/offer/面试题68I二叉搜索树的最近公共祖先/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/x的n次根/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/二叉树的直径/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/二叉树的直径/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/全排列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/出现最多次数/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/删除在字符串中的字符/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/删除排序链表中的重复元素/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/删除排序链表中的重复元素/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/删除链表的倒数第N个节点/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/删除链表的倒数第N个节点/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/加油站/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/单例/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/反转链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/反转链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/反转链表2/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/反转链表2/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/合并K个有序链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/合并K个有序链表/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/合并两个有序链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/合并两个有序链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/图像渲染/Solution$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/图像渲染/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/在排序数组中查找元素的第一个和最后一个位置/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/大数相加/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/奇在前偶在后/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/子集/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/字母大小写全排列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/字符串模式匹配/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/字符串解码/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/完全平方数/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/实现捡水果/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/岛屿数量/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/岛屿的周长/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/岛屿的最大面积/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/打印菱形/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/括号生成/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/斐波那契数列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/旋转数组最小值/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/旋转链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/旋转链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/最大子序和/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/最大字段和/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/最好一样/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/最长上升子序列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/最长上升子序列/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/最长公共子序列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/有序数组查找/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/末尾零/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/机制/TenToTwo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/机制/TenToTwo$CallableTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/机制/TenToTwo$RunnableTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/机制/TenToTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/栈排序/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/树的子结构/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/用最少数量的箭引爆气球/Solution$Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/用最少数量的箭引爆气球/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/电话号码的字母组合/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/相交链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/相交链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/矩阵01/Solution$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/矩阵01/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/矩阵中的路径/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/移掉K位数字/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/组合/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/组合总和/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/螺旋矩阵/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/表达式求值/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/被围绕的区域/Solution$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/被围绕的区域/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/课程表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/贪心/分糖果/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/贪心/摇摆子序列/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/贪心/移除K个数字/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/贪心/跳跃/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/跳台阶/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/迷宫寻路/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/重排链表/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/重排链表/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/链表逆序/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/链表逆序/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/非零和零/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/code/马路过河卒/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/cyclicbarrier/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/cyclicbarrier/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/io/bio/BioServiceSingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/两个有序数组合并/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/二叉树打印所有和为某值的路径/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/删除排序数组中的重复项/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/合并k个排序链表/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/合并k个排序链表/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/在排序数组中查找数字/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数字中查找第k大/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组中两个元素得最小距离/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组中只出现一次数组/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组中找重复值/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组中第二个大数字/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组中重复的数字/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组中重数最多/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组反转/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组循环K位/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组按重数排序/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/数组最大最小值/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/旋转数组查找元素/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/无重复字符的最长子串3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/求最大子数组之和/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/队列实现栈/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/零到n缺失的数字/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/验证回文串125/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/leetcode/验证回文字符串680/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/link/CompareAndSwap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/link/CryptUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/link/LinkedNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/link/Md5Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/link/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/lru/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/lru/lru/LRUCache$CacheNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/lru/lru/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/queue/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/queue/QueueAndStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/queue/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/redis/跳跃表/Skiplist$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/redis/跳跃表/Skiplist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/strategic/StrategicFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/strategic/StrategicService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/strategic/WxinService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/strategic/YinService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/synchroniz/SynchronizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/BucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/MergetSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/QuitSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/Main$A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/Main$B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/SemaPhore$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/SemaPhore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/aba/ABA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/中奖/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/中奖/Prize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/死锁/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/多线程/死锁/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/微众/one/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/微众/two/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/微众/最大利益问题/Main$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/微众/最大利益问题/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/快手/four/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/快手/one/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/快手/two/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/测试/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/测试/one/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/测试/one/SignalLamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/测试/one/SignalLampTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/测试/one/TestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/测试/one/TestResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/生产者消费者/synchronize/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/生产者消费者/synchronize/MessageStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/网易/one/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/网易/two/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/five/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/one/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/three/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/two/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/按数字变化/Main$comparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/按数字变化/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/美团/最好一样/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/负载均衡/权重/TrainMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/负载均衡/权重/TrainPojo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/out/production/synchronized/com/adminsys/负载均衡/轮询/SelectMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/K个一组反转链表/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/LRU/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/leetcode215数组中的第K个最大元素/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题18删除链表的节点/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题22链表中倒数第k个节点/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题24反转链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题25合并两个排序的链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题27二叉树的镜像/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题28对称的二叉树/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题29顺时针打印矩阵/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题34二叉树中和为某一值的路径/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题67把字符串转换成整数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题68II二叉树的最近公共祖先/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/offer/面试题68I二叉搜索树的最近公共祖先/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/x的n次根/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/二叉树的直径/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/全排列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/出现最多次数/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/删除在字符串中的字符/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/删除排序链表中的重复元素/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/删除链表的倒数第N个节点/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/加油站/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/单例/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/反转链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/反转链表2/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/合并K个有序链表/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/合并两个有序链表/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/图像渲染/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/在排序数组中查找元素的第一个和最后一个位置/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/大数相加/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/奇在前偶在后/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/子集/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/字母大小写全排列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/字符串模式匹配/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/字符串解码/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/完全平方数/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/实现捡水果/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/岛屿数量/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/岛屿的周长/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/岛屿的最大面积/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/打印菱形/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/括号生成/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/斐波那契数列/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/旋转数组最小值/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/旋转链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/最大子序和/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/最大字段和/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/最好一样/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/最长上升子序列/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/最长上升子序列/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/最长公共子序列/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/有序数组查找/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/末尾零/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/机制/TenToTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/栈排序/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/树的子结构/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/用最少数量的箭引爆气球/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/电话号码的字母组合/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/相交链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/矩阵01/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/矩阵中的路径/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/移掉K位数字/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/组合/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/组合总和/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/螺旋矩阵/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/表达式求值/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/被围绕的区域/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/课程表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/贪心/分糖果/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/贪心/摇摆子序列/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/贪心/移除K个数字/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/贪心/跳跃/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/跳台阶/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/迷宫寻路/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/重排链表/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/链表逆序/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/非零和零/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/code/马路过河卒/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/cyclicbarrier/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/io/bio/BioServiceSingle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/两个有序数组合并/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/二叉树打印所有和为某值的路径/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/删除排序数组中的重复项/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/合并k个排序链表/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/在排序数组中查找数字/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数字中查找第k大/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组中两个元素得最小距离/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组中只出现一次数组/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组中找重复值/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组中第二个大数字/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组中重复的数字/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组中重数最多/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组反转/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组循环K位/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组按重数排序/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/数组最大最小值/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/旋转数组查找元素/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/无重复字符的最长子串3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/求最大子数组之和/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/队列实现栈/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/零到n缺失的数字/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/验证回文串125/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/leetcode/验证回文字符串680/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/link/CompareAndSwap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/link/CryptUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/link/LinkedNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/link/Md5Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/lru/LRUCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/lru/lru/LRUCache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/queue/QueueAndStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/queue/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/redis/跳跃表/Skiplist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/strategic/StrategicFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/strategic/StrategicService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/strategic/WxinService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/strategic/YinService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/synchroniz/SynchronizedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/BucketSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/MergetSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/QuitSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/SelectSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/tree/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/SemaPhore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/aba/ABA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/aqs/Lock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/aqs/MiniReentrantLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/中奖/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/中奖/Prize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/多线程/死锁/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/微众/one/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/微众/two/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/微众/最大利益问题/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/快手/four/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/快手/one/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/快手/two/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/测试/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/测试/one/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/测试/one/SignalLamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/测试/one/SignalLampTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/测试/one/TestCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/测试/one/TestResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/生产者消费者/synchronize/Goods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/生产者消费者/synchronize/MessageStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/网易/one/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/网易/two/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/美团/five/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/美团/one/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/美团/three/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/美团/two/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/美团/按数字变化/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/美团/最好一样/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/负载均衡/权重/TrainMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/src/com/adminsys/负载均衡/轮询/SelectMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../synchronized/synchronized.iml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +397,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -138,7 +442,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.tree.HeapSort" />
       <module name="synchronized" />
@@ -152,12 +456,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiniBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.多线程.blockingqueue.MiniBlockingQueue" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.leetcode.在排序数组中查找数字.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.多线程.blockingqueue.*" />
+          <option name="PATTERN" value="com.adminsys.leetcode.在排序数组中查找数字.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +510,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.RedPackage" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MiniBlockingQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -358,6 +662,7 @@
       <workItem from="1592913991801" duration="4309000" />
       <workItem from="1592997584450" duration="2557000" />
       <workItem from="1593066198020" duration="45000" />
+      <workItem from="1593086696259" duration="6375000" />
     </task>
     <servers />
   </component>
