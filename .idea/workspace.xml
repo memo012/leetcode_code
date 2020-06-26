@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/lt52两个链表的第一个公共节点/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/n整数中1出现的次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/交替打印奇偶数/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/META-INF/synchronized.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/TopK问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/TopK问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/leetcode/在排序数组中查找数字/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/leetcode/在排序数组中查找数字/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -442,7 +438,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.tree.HeapSort" />
       <module name="synchronized" />
@@ -495,12 +491,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.账户合并.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.多线程.交替打印奇偶数.Solution" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.code.账户合并.*" />
+          <option name="PATTERN" value="com.adminsys.多线程.交替打印奇偶数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -510,11 +506,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.RedPackage" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -663,6 +659,7 @@
       <workItem from="1592997584450" duration="2557000" />
       <workItem from="1593066198020" duration="45000" />
       <workItem from="1593086696259" duration="6375000" />
+      <workItem from="1593144511258" duration="2467000" />
     </task>
     <servers />
   </component>
