@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer58翻转单词顺序/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer59滑动窗口的最大值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer62圆圈中最后剩下的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offe67把字符串转换成整数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer47礼物的最大价值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer48最长不含重复字符的子字符串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer59II队列的最大值/MaxQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer63股票的最大利润/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer66构建乘积数组/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -440,13 +444,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.tree.HeapSort" />
+  <component name="RunManager" selected="Application.Solution (3)">
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.lru.lru.LRUCache" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.tree.*" />
+          <option name="PATTERN" value="com.adminsys.lru.lru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,32 +471,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RedPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.多线程.好包算法.RedPackage" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.多线程.好包算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.TopK问题.Solution" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.code.offer.TopK问题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.多线程.交替打印奇偶数.Solution" />
       <module name="synchronized" />
@@ -506,13 +484,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.剑指Offer48最长不含重复字符的子字符串.Solution" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.code.offer.剑指Offer48最长不含重复字符的子字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.剑指Offer63股票的最大利润.Solution" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.code.offer.剑指Offer63股票的最大利润.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.RedPackage" />
       </list>
     </recent_temporary>
   </component>
@@ -661,7 +665,10 @@
       <workItem from="1592997584450" duration="2557000" />
       <workItem from="1593066198020" duration="45000" />
       <workItem from="1593086696259" duration="6375000" />
-      <workItem from="1593144511258" duration="7081000" />
+      <workItem from="1593144511258" duration="7146000" />
+      <workItem from="1593232649312" duration="8015000" />
+      <workItem from="1593412027720" duration="7493000" />
+      <workItem from="1593522974864" duration="601000" />
     </task>
     <servers />
   </component>

@@ -89,11 +89,11 @@ public class LRUCache<K, V> {
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         StringBuilder sb = new StringBuilder();
         CacheNode node = first;
-        while(node != null){
-            sb.append(String.format("%s:%s ", node.key,node.value));
+        while (node != null) {
+            sb.append(String.format("%s:%s ", node.key, node.value));
             node = node.next;
         }
 
