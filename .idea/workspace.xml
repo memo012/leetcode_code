@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offe67把字符串转换成整数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer47礼物的最大价值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer48最长不含重复字符的子字符串/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer59II队列的最大值/MaxQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer63股票的最大利润/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/剑指Offer66构建乘积数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/最大优先级队列/OrderedArrayMaxPQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/lru/lru/LRUCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -444,7 +438,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.OrderedArrayMaxPQ">
     <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.lru.lru.LRUCache" />
       <module name="synchronized" />
@@ -458,12 +452,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.leetcode.在排序数组中查找数字.Main" />
+    <configuration name="OrderedArrayMaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.最大优先级队列.OrderedArrayMaxPQ" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.leetcode.在排序数组中查找数字.*" />
+          <option name="PATTERN" value="com.adminsys.code.offer.最大优先级队列.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -512,11 +506,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrderedArrayMaxPQ" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.LRUCache" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -668,7 +662,9 @@
       <workItem from="1593144511258" duration="7146000" />
       <workItem from="1593232649312" duration="8015000" />
       <workItem from="1593412027720" duration="7493000" />
-      <workItem from="1593522974864" duration="601000" />
+      <workItem from="1593522974864" duration="1358000" />
+      <workItem from="1593608770256" duration="320000" />
+      <workItem from="1593610826220" duration="1622000" />
     </task>
     <servers />
   </component>
