@@ -19,7 +19,6 @@ class Solution {
                 Stack<Integer> stack = new Stack<>();
                 stack.push(i);
                 color[i] = 0;
-
                 while (!stack.isEmpty()) {
                     int mid = stack.pop();
                     for (int in : graph[mid]) {
