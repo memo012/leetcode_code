@@ -1,4 +1,4 @@
-package com.adminsys.code.动态规划.杨辉三角;
+package com.adminsys.动态规划.杨辉三角;
 
 /**
  * @author Qiang

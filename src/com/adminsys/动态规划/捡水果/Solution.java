@@ -1,4 +1,4 @@
-package com.adminsys.code.动态规划.捡水果;
+package com.adminsys.动态规划.捡水果;
 
 /**
  * @author Qiang

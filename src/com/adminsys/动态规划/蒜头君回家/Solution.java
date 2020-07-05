@@ -1,4 +1,4 @@
-package com.adminsys.code.动态规划.蒜头君回家;
+package com.adminsys.动态规划.蒜头君回家;
 
 /**
  * @author Qiang

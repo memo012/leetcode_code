@@ -61,10 +61,10 @@ public class Solution {
      * @return
      */
     private int[] heapSort(int[] arr, int k) {
-        PriorityQueue<Integer> queue = new PriorityQueue<Integer>((o1, o2) -> o2 - o1);
+        PriorityQueue<Integer> queue = new PriorityQueue<Integer>((o1, o2) -> o1 - o2);
         for (int i : arr) {
             if (queue.size() < k) queue.offer(i);
-            else if (queue.peek() > i) {
+            else if (queue.peek() < i) {
                 queue.poll();
                 queue.offer(i);
             }
@@ -78,8 +78,11 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        int[] arr = {0, 1, 2, 1};
-        new Solution().heapSort(arr, 1);
+        int[] arr = {0, 1, 2, 156, 5, 6, 8, 9, 16, 4};
+        int[] a = new Solution().heapSort(arr, 3);
+        for (int i = 0; i < 3; i++)
+            System.out.println(a[i]);
     }
+
 
 }
