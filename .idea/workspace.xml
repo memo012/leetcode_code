@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最大子序和/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长上升子序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长公共子序列/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长重复子数组/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/蒜头君爬楼梯/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/多线程/ThreadLocal实例/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/最小K个数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/公交站间的距离/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/不同路径2/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/TopK问题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/TopK问题/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/动态规划/杨辉三角/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/offer/TopK问题/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/TopK问题/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/动态规划/捡水果/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/捡水果/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/动态规划/杨辉三角/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/杨辉三角/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/动态规划/蒜头君回家/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/蒜头君回家/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -693,7 +684,7 @@
       <workItem from="1593697546809" duration="3945000" />
       <workItem from="1593783902584" duration="177000" />
       <workItem from="1593784603582" duration="1067000" />
-      <workItem from="1593850824715" duration="11190000" />
+      <workItem from="1593850824715" duration="15813000" />
     </task>
     <servers />
   </component>
