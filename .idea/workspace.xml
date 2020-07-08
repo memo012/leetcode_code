@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/最小K个数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/公交站间的距离/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/不同路径2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/字符串转换整数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/整数反转/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长回文子串/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
@@ -441,7 +441,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration name="OrderedArrayMaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.最大优先级队列.OrderedArrayMaxPQ" />
       <module name="synchronized" />
@@ -468,12 +468,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.剑指Offer48最长不含重复字符的子字符串.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.字符串转换整数.Solution" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.code.offer.剑指Offer48最长不含重复字符的子字符串.*" />
+          <option name="PATTERN" value="com.adminsys.code.字符串转换整数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,12 +481,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.剑指Offer63股票的最大利润.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.剑指Offer48最长不含重复字符的子字符串.Solution" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.code.offer.剑指Offer63股票的最大利润.*" />
+          <option name="PATTERN" value="com.adminsys.code.offer.剑指Offer48最长不含重复字符的子字符串.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -522,11 +522,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.ThreadLocalTest" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.OrderedArrayMaxPQ" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -684,7 +684,7 @@
       <workItem from="1593697546809" duration="3945000" />
       <workItem from="1593783902584" duration="177000" />
       <workItem from="1593784603582" duration="1067000" />
-      <workItem from="1593850824715" duration="15813000" />
+      <workItem from="1593850824715" duration="21453000" />
     </task>
     <servers />
   </component>
@@ -714,6 +714,16 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adminsys/code/字符串转换整数/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adminsys/code/字符串转换整数/Solution.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
