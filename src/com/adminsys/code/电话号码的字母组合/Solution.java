@@ -9,7 +9,7 @@ class Solution {
     List<String> list = new LinkedList();
     public List<String> letterCombinations(String digits) {
         if (digits == null || digits.length() == 0) {
-            return null;
+            return list;
         }
         dfs(digits, 0, "");
         return list;

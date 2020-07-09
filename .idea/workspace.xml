@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/字符串转换整数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/整数反转/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长回文子串/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/电话号码的字母组合/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/电话号码的字母组合/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/leetcode/旋转数组查找元素/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/leetcode/旋转数组查找元素/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -412,7 +411,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../源码/memo_ext_mybatis" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -441,13 +440,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="OrderedArrayMaxPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.最大优先级队列.OrderedArrayMaxPQ" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.leetcode.旋转数组查找元素.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.code.offer.最大优先级队列.*" />
+          <option name="PATTERN" value="com.adminsys.leetcode.旋转数组查找元素.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -522,11 +521,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.ThreadLocalTest" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.OrderedArrayMaxPQ" />
       </list>
     </recent_temporary>
   </component>
@@ -684,7 +683,7 @@
       <workItem from="1593697546809" duration="3945000" />
       <workItem from="1593783902584" duration="177000" />
       <workItem from="1593784603582" duration="1067000" />
-      <workItem from="1593850824715" duration="21453000" />
+      <workItem from="1593850824715" duration="25561000" />
     </task>
     <servers />
   </component>
