@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/实现strStr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/合并两个有序数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/外观数列/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/括号生成/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/最小差值ii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/有效的数独/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/leetcode/旋转数组查找元素/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/leetcode/旋转数组查找元素/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/x的n次根/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/x的n次根/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -411,7 +415,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../源码/memo_ext_mybatis" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../源码/spring5.0" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -671,7 +675,8 @@
       <workItem from="1593783902584" duration="177000" />
       <workItem from="1593784603582" duration="1067000" />
       <workItem from="1593850824715" duration="26118000" />
-      <workItem from="1594456421204" duration="6306000" />
+      <workItem from="1594456421204" duration="12518000" />
+      <workItem from="1594808775935" duration="5905000" />
     </task>
     <servers />
   </component>
