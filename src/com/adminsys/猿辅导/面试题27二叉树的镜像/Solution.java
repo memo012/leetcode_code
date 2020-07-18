@@ -1,4 +1,4 @@
-package com.adminsys.code.offer.面试题27二叉树的镜像;
+package com.adminsys.猿辅导.面试题27二叉树的镜像;
 
 
 import java.util.Stack;
@@ -12,6 +12,7 @@ class TreeNode {
         val = x;
     }
 }
+
 class Solution {
     public TreeNode mirrorTree(TreeNode root) {
         TreeNode head = root;
@@ -33,10 +34,5 @@ class Solution {
             }
         }
         return head;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(Double.MIN_VALUE);
-        System.out.println(-Integer.MAX_VALUE);
     }
 }

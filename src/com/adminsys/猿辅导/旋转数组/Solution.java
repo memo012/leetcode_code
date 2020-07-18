@@ -12,11 +12,6 @@ package com.adminsys.猿辅导.旋转数组;
  * 反转所有数字后             : 7 6 5 4 3 2 1
  * 反转前 k 个数字后          : 5 6 7 4 3 2 1
  * 反转后 n-k 个数字后        : 5 6 7 1 2 3 4 --> 结果
- *
- * 作者：LeetCode
- * 链接：https://leetcode-cn.com/problems/rotate-array/solution/xuan-zhuan-shu-zu-by-leetcode/
- * 来源：力扣（LeetCode）
- * 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
  */
 class Solution {
     public void rotate(int[] nums, int k) {
