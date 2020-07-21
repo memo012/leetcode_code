@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/k个一组翻转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/分隔链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/删除排序链表中的重复元素2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/删除数组中出现次数超过k的删除/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/找到K个最接近的元素/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/翻转二叉树/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/猿辅导/删除排序链表中的重复元素/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/删除排序链表中的重复元素/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -440,33 +445,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.leetcode.在排序数组中查找数字.Main" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.leetcode.在排序数组中查找数字.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.leetcode.旋转数组查找元素.Main" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.leetcode.旋转数组查找元素.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.面试题27二叉树的镜像.Solution" />
       <module name="synchronized" />
@@ -480,12 +459,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.删除数组中出现次数超过k的删除.Solution" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.猿辅导.删除数组中出现次数超过k的删除.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.完全二叉树的节点个数.Solution" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.adminsys.猿辅导.完全二叉树的节点个数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.找到K个最接近的元素.Solution" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.猿辅导.找到K个最接近的元素.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -508,11 +513,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -672,7 +677,7 @@
       <workItem from="1593784603582" duration="1067000" />
       <workItem from="1593850824715" duration="26118000" />
       <workItem from="1594456421204" duration="12518000" />
-      <workItem from="1594808775935" duration="40425000" />
+      <workItem from="1594808775935" duration="51261000" />
     </task>
     <servers />
   </component>
