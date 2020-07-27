@@ -16,8 +16,8 @@ public class Solution {
             for (int j = 0; j < lenb; j++) {
                 if (a[i] == b[j]) {
                     if (i - 1 < 0 || j - 1 < 0) dp[i][j] = 1;
-                    else dp[i][j] = dp[i-1][j-1] + 1;
-                }else {
+                    else dp[i][j] = dp[i - 1][j - 1] + 1;
+                } else {
                     dp[i][j] = 0;
                 }
                 max = Math.max(max, dp[i][j]);
