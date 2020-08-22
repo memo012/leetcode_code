@@ -2,20 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/机器人的运动范围/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/第一个只出现一次的字符/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/去除捣乱的报数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/和为K的子数组/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/大巴车/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/小猿的迷宫之旅/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/拍照队形/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/笛卡尔积算法/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/beike/回文数构造/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/beike/方格染色/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/beike/最大字段或/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/三步问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/二进制中1的个数/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/判断链表是否为回文数/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/判断链表是否为回文数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/按摩师/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/生存人数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/第N个泰波那契数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/缺失的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/零矩阵/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题0805递归乘法/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题1611跳水板/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/字典树/TrieTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/京东/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/京东/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/携程/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/携程/计算工作流中最大执行时间/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/滴滴/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/滴滴/two/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/旋转数组serarchTarget/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/素数之和等于某值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/顺丰/服务器管理/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/删除排序链表中的重复元素/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/删除排序链表中的重复元素/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/删除排序链表中的重复元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/删除排序链表中的重复元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/找到K个最接近的元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/找到K个最接近的元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长重复子数组/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/动态规划/最长重复子数组/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/猿辅导/删除排序链表中的重复元素/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/删除排序链表中的重复元素/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/队实现栈/QueueStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/队实现栈/QueueStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/one/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/one/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/two/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/two/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/one/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/one/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/three/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/three/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/two/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/two/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/猿辅导/队实现栈/QueueStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/队实现栈/QueueStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/网易/one/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/网易/one/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/网易/two/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/网易/two/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/美团/one/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/美团/one/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/美团/three/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/美团/three/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/美团/two/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/美团/two/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -441,6 +468,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
@@ -466,13 +494,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.大巴车.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.滴滴.one.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.猿辅导.大巴车.*" />
+          <option name="PATTERN" value="com.adminsys.滴滴.one.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,11 +509,37 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.拍照队形.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.滴滴.two.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.猿辅导.拍照队形.*" />
+          <option name="PATTERN" value="com.adminsys.滴滴.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.携程.one.Main" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.携程.one.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.二进制中1的个数.Main" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.code.offer.二进制中1的个数.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -494,37 +548,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.去除捣乱的报数.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.顺丰.服务器管理.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.猿辅导.去除捣乱的报数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.猿辅导.笛卡尔积算法.Solution" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.猿辅导.笛卡尔积算法.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.机器人的运动范围.Solution" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.code.offer.机器人的运动范围.*" />
+          <option name="PATTERN" value="com.adminsys.顺丰.服务器管理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -534,11 +562,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -699,7 +727,11 @@
       <workItem from="1593850824715" duration="26118000" />
       <workItem from="1594456421204" duration="12518000" />
       <workItem from="1594808775935" duration="59264000" />
-      <workItem from="1595661067556" duration="13431000" />
+      <workItem from="1595661067556" duration="28641000" />
+      <workItem from="1596347841671" duration="6421000" />
+      <workItem from="1596467697337" duration="3506000" />
+      <workItem from="1596686455170" duration="25789000" />
+      <workItem from="1597238508341" duration="30532000" />
     </task>
     <servers />
   </component>
@@ -744,6 +776,11 @@
           <url>file://$PROJECT_DIR$/src/com/adminsys/code/offer/机器人的运动范围/Solution.java</url>
           <line>16</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/adminsys/滴滴/one/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

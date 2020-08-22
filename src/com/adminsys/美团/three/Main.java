@@ -1,6 +1,5 @@
 package com.adminsys.美团.three;
 
-import com.sun.javafx.binding.StringFormatter;
 
 import java.util.*;
 
@@ -10,39 +9,81 @@ import java.util.*;
  * @Create: 2020-04-02 11-28
  **/
 public class Main {
+
+    static class Node {
+        int key;
+        int value;
+
+        public Node(int key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
+
+    static int[] father;
+    static int[] sz;
+
+    public static void initUF(int n) {
+        father = new int[n];
+        sz = new int[n];
+        for (int i = 0; i < n; i++) {
+            father[i] = i;
+            sz[i] = 1;
+        }
+    }
+
+    public static int find(int p) {
+        if (p != father[p]) {
+            p = find(father[p]);
+        }
+        return p;
+    }
+
+    public static void union(int p, int q) {
+        int i = find(p);
+        int j = find(q);
+        if (i == j) return;
+        if (sz[i] < sz[j]) {
+            father[i] = j;
+            sz[j] += sz[i];
+        } else {
+            father[j] = i;
+            sz[i] += sz[j];
+        }
+    }
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        double[] arr = new double[n];
-        int[] num = new int[n];
-        Map<Integer, Double> map = new HashMap<>();
-        for (int i = 0; i < n; i++) {
-            arr[i] = in.nextDouble();
-            map.put(i, arr[i]);
+        int m = in.nextInt();
+        initUF(n);
+        for (int i = 0; i < m; i++) {
+            int a = in.nextInt();
+            int b = in.nextInt();
+            if (find(a - 1) == find(b - 1)) continue;
+            union(a - 1, b - 1);
         }
-        for (int i = 0; i < n; i++) {
-            num[i] = in.nextInt();
+        HashMap<Integer, TreeSet<Integer>> map = new HashMap<>();
+        for (int i = 0; i < n; i++) map.put(i, new TreeSet<Integer>());
+        for (int i = 0; i < n; i++) map.get(father[i]).add(i + 1);
+        PriorityQueue<Node> pq = new PriorityQueue<>((o1, o2) -> o1.key - o2.key);
+        for (int i = 0; i < map.size(); i++) {
+            int size = map.get(i).size();
+            if (size <= 0) continue;
+            SortedSet<Integer> value = map.get(i);
+            pq.add(new Node(value.first(), i));
         }
-        Arrays.sort(arr);
-        int k = 0;
-        double sum = 0;
-        for (int i = 0; i < n; ) {
-            if (map.get(i) == arr[n - 1]) {
-                k = i;
-                break;
-            } else {
-                i++;
+        System.out.println(pq.size());
+        while (!pq.isEmpty()) {
+            Node node = pq.poll();
+            SortedSet<Integer> value = map.get(node.value);
+            int len = value.size();
+            int ct = 0;
+            for (int v : value) {
+                ct++;
+                if (ct == len) System.out.println(v);
+                else System.out.print(v + " ");
             }
         }
-        double t = 1;
-        for (int i = 0; i < n; i++) {
-            if (i == 0) {
-                t *= num[k] * arr[n - 1];
-            } else {
-                t *= arr[n - 1];
-            }
-            sum += t;
-        }
-        System.out.println(String.format("%.2f", sum));
     }
 }

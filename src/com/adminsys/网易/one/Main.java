@@ -8,32 +8,21 @@ import java.util.List;
  * @Description:
  * @Create: 2020-04-11 19-44
  **/
+import java.util.*;
 
 public class Main {
+    static int m;
+    static int sum = 0;
+    static List<List<Integer>> lists;
+
     public static void main(String[] args) {
-        List<List<Integer>> list = new ArrayList<>();
-        List<Integer> objects = new ArrayList<>();
-        List<Integer> objects1 = new ArrayList<>();
-        List<Integer> object2 = new ArrayList<>();
-        objects.add(1);
-        objects1.add(2);
-        objects1.add(5);
-        object2.add(3);
-        list.add(objects);
-        list.add(objects1);
-        list.add(object2);
-        List<Integer> k = new ArrayList<>();
-        for (int i = 0; i < list.size(); i++) {
-            if (list.get(i).get(0) == 2) {
-                k = list.get(i);
-            }
-        }
-//        list.remove(k);
-        for (List<Integer> i:
-             list) {
-            if(i.contains(2)){
-                System.out.print(i.size());
-            }
-        }
+
+            Scanner sc = new Scanner(System.in);
+            long n = sc.nextLong();
+            long[] nums = new long[(int) n];
+            int sum = 0;
+            for (int i = 0; i < nums.length; i++) nums[i] = sc.nextLong();
+            for (long l : nums) sum += l / 2;
+            System.out.println(sum);
     }
 }

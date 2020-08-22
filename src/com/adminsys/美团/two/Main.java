@@ -1,7 +1,5 @@
 package com.adminsys.美团.two;
 
-import java.util.Arrays;
-import java.util.Scanner;
 
 /**
  * @Author: qiang
@@ -9,25 +7,37 @@ import java.util.Scanner;
  * @Create: 2020-04-02 11-28
  **/
 
+import java.util.*;
+
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
-        long m = in.nextLong();
-        int[] arr = new int[n];
-        int sum = 0, count = 0;
+        int count = 0;
+        Map<String, String> map = new HashMap<>();
+        Queue<String> queue = new LinkedList<>();
         for (int i = 0; i < n; i++) {
-            arr[i] = in.nextInt();
-            sum += arr[i];
+            String start = in.next();
+            String end = in.next();
+            map.put(start, end);
+            queue.add(start);
         }
-        long k1 = m / sum;
-        long k2 = m % sum;
-        for (int i = 0; i < n; i++) {
-            if (k2 >= arr[i]) {
-                k2 -= arr[i];
-                count++;
+
+        while (!queue.isEmpty()) {
+            String std = queue.poll();
+            String start = std;
+            while (true) {
+                String s = map.get(std);
+                queue.remove(s);
+                if (map.get(s).equals(start)) {
+                    count++;
+                    break;
+                }
+                std = s;
             }
         }
-        System.out.println(count + k1 * n);
+
+        System.out.println(count);
+
     }
 }
