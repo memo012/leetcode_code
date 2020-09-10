@@ -74,7 +74,7 @@ public class TrainMessage {
         for (int i = 0; i < list.size(); i++) {
             weightPojo = list.get(i);
             sum += weightPojo.getWeight();
-            map.put(sum + weightPojo.getWeight(), weightPojo.getName());
+            map.put(sum, weightPojo.getName());
         }
     }
 

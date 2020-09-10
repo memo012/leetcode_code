@@ -2,47 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/beike/回文数构造/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/beike/方格染色/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/beike/最大字段或/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/三步问题/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/二进制中1的个数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/判断链表是否为回文数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/判断链表是否为回文数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/按摩师/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/生存人数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/第N个泰波那契数/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/缺失的数字/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/零矩阵/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题0805递归乘法/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/面试题1611跳水板/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/sort/字典树/TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/京东/one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/京东/two/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/携程/one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/携程/计算工作流中最大执行时间/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/滴滴/one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/滴滴/two/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/旋转数组serarchTarget/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/素数之和等于某值/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/顺丰/服务器管理/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/map集合删除指定元素/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/同城58/输入公共字符串/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/小米/单词搜索/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/小米/密码生成器/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/广联达/各不相同/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/广联达/机器人/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/广联达/种草/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/微盟/three/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/微盟/two/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/最后/三十六转十进制/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/最后/构建二插搜索树/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/百度/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/达达/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/adminsys/达达/权重/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/code/offer/机器人的运动范围/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/队实现栈/QueueStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/猿辅导/队实现栈/QueueStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/one/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/one/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/two/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/网易/two/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/one/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/one/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/three/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/three/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/two/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/美团/two/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/leetcode347前K个高频元素/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/猿辅导/队实现栈/QueueStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/猿辅导/队实现栈/QueueStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/网易/one/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/网易/one/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/网易/two/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/网易/two/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/美团/one/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/美团/one/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/美团/three/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/美团/three/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/美团/two/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/美团/two/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/滴滴/one/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/滴滴/one/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/负载均衡/权重/TrainMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/负载均衡/权重/TrainMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/负载均衡/权重/TrainMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/负载均衡/权重/TrainMessage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -494,13 +471,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.滴滴.one.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.最后.构建二插搜索树.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.滴滴.one.*" />
+          <option name="PATTERN" value="com.adminsys.最后.构建二插搜索树.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -509,11 +486,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.滴滴.two.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.leetcode.数组中只出现一次数组.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.滴滴.two.*" />
+          <option name="PATTERN" value="com.adminsys.leetcode.数组中只出现一次数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -522,11 +499,24 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.携程.one.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.map集合删除指定元素.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.携程.one.*" />
+          <option name="PATTERN" value="com.adminsys.code.offer.map集合删除指定元素.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.广联达.机器人.Main" />
+      <module name="synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.adminsys.广联达.机器人.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -535,24 +525,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.code.offer.二进制中1的个数.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.adminsys.最后.三十六转十进制.Main" />
       <module name="synchronized" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.adminsys.code.offer.二进制中1的个数.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.adminsys.顺丰.服务器管理.Main" />
-      <module name="synchronized" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.adminsys.顺丰.服务器管理.*" />
+          <option name="PATTERN" value="com.adminsys.最后.三十六转十进制.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -562,11 +539,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -731,7 +708,10 @@
       <workItem from="1596347841671" duration="6421000" />
       <workItem from="1596467697337" duration="3506000" />
       <workItem from="1596686455170" duration="25789000" />
-      <workItem from="1597238508341" duration="30532000" />
+      <workItem from="1597238508341" duration="33161000" />
+      <workItem from="1598869466612" duration="4111000" />
+      <workItem from="1599128890733" duration="25593000" />
+      <workItem from="1599630452986" duration="9479000" />
     </task>
     <servers />
   </component>
