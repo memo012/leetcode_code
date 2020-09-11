@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c6ee209-cee5-45ba-9603-f7b6758d13aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/map集合删除指定元素/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/同城58/输入公共字符串/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/小米/单词搜索/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/小米/密码生成器/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/广联达/各不相同/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/广联达/机器人/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/广联达/种草/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/微盟/three/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/微盟/two/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/最后/三十六转十进制/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/最后/构建二插搜索树/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/百度/one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/达达/one/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/adminsys/达达/权重/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/滴滴/one/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/滴滴/one/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/负载均衡/权重/TrainMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/synchronized/com/adminsys/负载均衡/权重/TrainMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/adminsys/负载均衡/权重/TrainMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/负载均衡/权重/TrainMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/adminsys/code/offer/map集合删除指定元素/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/adminsys/code/offer/map集合删除指定元素/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../synchronized/.idea/uiDesigner.xml" beforeDir="false" />
@@ -711,7 +695,7 @@
       <workItem from="1597238508341" duration="33161000" />
       <workItem from="1598869466612" duration="4111000" />
       <workItem from="1599128890733" duration="25593000" />
-      <workItem from="1599630452986" duration="9479000" />
+      <workItem from="1599630452986" duration="11799000" />
     </task>
     <servers />
   </component>
