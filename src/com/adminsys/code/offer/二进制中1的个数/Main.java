@@ -16,6 +16,7 @@ public class Main {
         System.out.println(count);
     }
 
+
     public static void main(String[] args) {
         getNum1(-1);
         // 负数二进制等于其补码+1
