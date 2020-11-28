@@ -7,8 +7,6 @@ package com.adminsys.猿辅导.k个一组翻转链表;
  * @date 2020/7/19 下午5:07
  **/
 
-import java.util.*;
-
 
 class ListNode {
     int val;

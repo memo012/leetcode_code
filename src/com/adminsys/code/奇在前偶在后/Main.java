@@ -3,6 +3,7 @@ package com.adminsys.code.奇在前偶在后;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Optional;
 
 /**
  * @Author: qiang
@@ -11,7 +12,7 @@ import java.util.List;
  **/
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main1(String[] args) {
         int[] arr = {1, 4, 5, 8, 3};
         List<Integer> list1 = new ArrayList<>();
         List<Integer> list2 = new ArrayList<>();
@@ -34,5 +35,9 @@ public class Main {
         for (i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + "->");
         }
+    }
+
+    public static void main(String[] args) {
+
     }
 }
